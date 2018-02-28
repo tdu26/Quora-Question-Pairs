@@ -1,15 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 06 20:56:43 2017
 
-@author: Li
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 19 15:14:14 2017
-
-@author: Li
 """
 import time
 start_time = time.time()
